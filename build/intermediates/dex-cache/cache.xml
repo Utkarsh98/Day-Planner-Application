@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_5f71e01dc9bc9ffee441cb93ff70852cfd64faf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.1_b5e658ef524d374d23fbb7d387068704f757560d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e98be99006dcc0ab19af89dcc3e48995d5e6a6ef">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c8671492e9ccc0129863f67dcf67b6e0f5edccd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5f71e01dc9bc9ffee441cb93ff70852cfd64faf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e1d26b45f0ed0292bb2077856bee2a6bfccfd2ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_b5e658ef524d374d23fbb7d387068704f757560d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_4ff0d1d8e722ce6c2c8fc781ee9a4bb4ed395ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_1a1052547439cb2ef6f2a447368ff38f68d51b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_e1d26b45f0ed0292bb2077856bee2a6bfccfd2ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_4ff0d1d8e722ce6c2c8fc781ee9a4bb4ed395ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_1a1052547439cb2ef6f2a447368ff38f68d51b20\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_85ea84b0a7cb820ed8806d5f59b56eb25a92a320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_3fc73c6f4c07d3fca7f911745bf5e08fcda84240.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3fc73c6f4c07d3fca7f911745bf5e08fcda84240\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_d6537a30046b2999d81e74e1ea931115c01da2b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_1e4bf85c8e2756bcf29ac631249042bd50efbe64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d6537a30046b2999d81e74e1ea931115c01da2b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_43d8da8bb9f9abff12118da57ee74a075df12cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1e4bf85c8e2756bcf29ac631249042bd50efbe64\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\de.hdodenhof-circleimageview-2.1.0_b7c96d2016e90f457caf91882d72b92c701c7f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.1_43d8da8bb9f9abff12118da57ee74a075df12cf1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f8b9744268a310d5bf4c1a888f10066fa772b5a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.2.1_59178d843dcb047377fe5a40b0b219fe378d0a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_f8b9744268a310d5bf4c1a888f10066fa772b5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_83a6a7d736a9af31a16a1d6fd38f39cace4aa4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_687b21a927803064ead1de799a7e89934ace4cf7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_83a6a7d736a9af31a16a1d6fd38f39cace4aa4cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b659c17a85775cdf5dfe38807fa248b698123053">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e4b4f8e64692ba51b652e087866059d564067566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_b7c96d2016e90f457caf91882d72b92c701c7f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_85ea84b0a7cb820ed8806d5f59b56eb25a92a320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_687b21a927803064ead1de799a7e89934ace4cf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_7fd003f3bd685a8ed0b3e890ba5184526bd03915\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_d8ca519ee7eac703af860a39170ade747346446a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_52d756e740d8eb6f998aa708fb23a1664e978cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_7fd003f3bd685a8ed0b3e890ba5184526bd03915.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_d8ca519ee7eac703af860a39170ade747346446a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_9108ced1c4e281cabb2e18a33e3ac04cddf997a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_52d756e740d8eb6f998aa708fb23a1664e978cf1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_59178d843dcb047377fe5a40b0b219fe378d0a45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Sahil Jain\AndroidStudioProjects\DBMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9108ced1c4e281cabb2e18a33e3ac04cddf997a3\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_display_combinations"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBackground"
+    android:orientation="vertical"
+    tools:context="com.example.admin.dbmsproject.DisplayCombos">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:clipToPadding="true"
+        android:contentInsetEnd="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:id="@+id/button_back"
+                android:layout_width="@dimen/icon_size"
+                android:layout_height="@dimen/icon_size"
+                android:padding="@dimen/padding_medium"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:tint="@android:color/white"
+                android:src="@drawable/ic_arrow_back_white_48dp"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="Plan Your Day"
+                android:textColor="@android:color/white"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_marginEnd="50dp"
+                android:layout_marginRight="50dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <!-- Sub Heading -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_medium"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Suitable Plans for you are: "
+            android:textColor="@color/textColorMedium"
+            android:textSize="@dimen/textsize_medium"
+            android:shadowColor="@android:color/white"
+            android:textStyle="bold"
+            android:shadowDy="1"
+            android:shadowDx="1"
+            />
+
+    </LinearLayout>
+
+    <!-- Combos -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/display_detail_backround"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_medium">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lin_combo1"
+            android:orientation="horizontal"
+            android:background="#FEFEFE"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:clickable="true"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option1_movie"
+                    android:text="Movie"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option1_restaurant"
+                    android:text="Restaurant"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option1_tourist_place"
+                    android:text="Tourist Place"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Total Cost: "
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option1_cost"
+                    android:text="Rs. 5000"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lin_combo2"
+            android:orientation="horizontal"
+            android:background="#FEFEFE"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:clickable="true"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option2_movie"
+                    android:text="Movie"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option2_restaurant"
+                    android:text="Restaurant"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option2_tourist_place"
+                    android:text="Tourist Place"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Total Cost: "
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option2_cost"
+                    android:text="Rs. 5000"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lin_combo3"
+            android:orientation="horizontal"
+            android:background="#FEFEFE"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:clickable="true"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option3_movie"
+                    android:text="Movie"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option3_restaurant"
+                    android:text="Restaurant"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option3_tourist_place"
+                    android:text="Tourist Place"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Total Cost: "
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option3_cost"
+                    android:text="Rs. 5000"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lin_combo4"
+            android:orientation="horizontal"
+            android:background="#FEFEFE"
+            android:gravity="center_vertical"
+            android:elevation="3dp"
+            android:clickable="true"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option4_movie"
+                    android:text="Movie"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option4_restaurant"
+                    android:text="Restaurant"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option4_tourist_place"
+                    android:text="Tourist Place"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_extra_small">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Total Cost: "
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/option4_cost"
+                    android:text="Rs. 5000"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_medium"
+                    android:layout_margin="@dimen/margin_small"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

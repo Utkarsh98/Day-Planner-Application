@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="120dp"
+        android:layout_height="97dp"
+        android:id="@+id/rec_relative"
+        android:layout_centerInParent="true"
+        android:padding="@dimen/padding_small"
+        android:background="@color/whitebackground"
+        android:layout_margin="1dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/rec_icon"
+            android:src="@drawable/gaming_zone"
+            android:scaleType="fitXY"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="26dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rec_text"
+            android:text="Gaming Zone"
+            android:textColor="@color/textcolor2"
+            android:textSize="@dimen/textsize_subtitle"
+            android:textAlignment="center"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/margin_small"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>
